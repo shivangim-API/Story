@@ -1,10 +1,15 @@
-# What is "Product"?
+# Introduction
 
-Give a brief Description of the product. 
+## What is "Product Name"?
 
-## Architecture Design 
+This section gives an intoduction about the document and the product.
 
 Give the architectural design. 
+
+## Working with "Product Name"
+
+Include advantages of using this product. 
+1. 
 
 ## Setting up ""Sample?
 
