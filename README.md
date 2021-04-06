@@ -1,8 +1,4 @@
-+++
-title = "Product Name <Sample>"
-description = "Introduction to the product"
-weight = 3
-+++
+
 
 ## What is "Sample"?
 
