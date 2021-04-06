@@ -1,27 +1,18 @@
-
-
-## What is "Sample"?
+# What is "Product"?
 
 Give a brief Description of the product. 
 
-### Setting up ""Sample?
+## Architecture Design 
+
+Give the architectural design. 
+
+## Setting up ""Sample?
 
 <Description>
 
 ### Before you install 
 To improve your installation experience, ensure that you understand the "Sample" installation concepts and requirements.
-{{% notice info %}}
-Include any notes or tips for the set-up
-{{% /notice %}}
 
-  },
-  WARNING: {
-    header: 'Warning',
-    md_icon: ':warning:',
-    html_icon: '⚠',
-    background: '#fff1cc',
-    color: '#664b00',
-  },
 
 ### Installing "Sample" 
 
@@ -44,16 +35,59 @@ Include the procedure for installing the application.
 
 ### Checking your installation
 You can verify the content of the installation directory and use shortcuts to access product components and information.
+
+
 ### What's next?
 Review the following topics after you install Operational Decision Manager.
+
 
 # Working with "Samples"
 <Describe the application and how to use it>
 
-### Adding accounts to the appliocation 
-1. Step1.
-2. Step2.
+## Scope and Purpose 
+1. Stepc1.
+2. Stepc2.
 3. Step 3. 
+
+
+## Process Overview
+Provide a concise description of the overall processes managed by the software, and how the user interacts with the system. As applicable, reference related processes and corresponding documentation (you may want to create an ordered list of each workflow/process to be covered).
+typical sequence for using the software to manage {group of workflows/functions}:
+
+1. Configure your workspace
+2. Manage a key workflow
+3. Manage another key workflow
+4. Report
+5. Troubleshoot
+
+
+### Process/WorkFlow 1
+
+Provide a concise description of the context for this process or workflow, including any requirements or conditions that are relevant. Repeat this entire section for each major workflow or process.
+
+**Sub-Process or Workflow Step 1**
+
+_Example: Configure Connect to manage your work_
+
+Provide a concise description of the context for this sub-process or workflow, including any requirements or conditions that are relevant.
+
+1.Procedures for Step 1
+2.Example: To Log in to Connect:
+3.Do something.
+4.Complete an action.
+5. Select a value.
+
+[NOTES, CAUTIONS, and WARNINGS provide any relevant or supplemental information about consequences of performing a step incorrectly. Place warnings before the step to be taken. Notes may be placed either before or after the corresponding step.]
+NOTE:.
+
+Procedures for Step 2:
+Do something fairly complex that needs substeps:
+Do the first thing
+When something happens, do the next thing.
+Click a button or a link.
+Enter some data.
+
+
 
 ### Working with "Sample"
 
@@ -64,11 +98,9 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
-### Syntax highlighting
 You can add an optional language identifier to enable syntax highlighting in your fenced code block.
 
 For example, to syntax highlight Ruby code:
-
 
 ```ruby
 require 'redcarpet'
