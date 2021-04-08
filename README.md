@@ -9,28 +9,35 @@ Give the architectural design.
 ## Working with "Product Name"
 
 Include advantages of using this product. 
-1. 
+p[
 
-## Setting up ""Sample?
+# Setting up Sample Product?
 
 <Description>
 
-### Before you install 
+
+## Before you install 
 To improve your installation experience, ensure that you understand the "Sample" installation concepts and requirements.
 
 
-### Installing "Sample" 
+## Installing "Sample" 
 
 Include the procedure for installing the application.
 
 1. Step 
 2. Step 
 3. step 
-	a. Item 1.
-	b. Item 2. 
+
+>[!NOTE]
+>
+>Include any essential notes regarding the application.
 
 
-### List of users and their rights 
+## Checking your installation
+You can verify the content of the installation directory and use shortcuts to access product components and information.
+
+
+##  Setting up the application
 
 | Users       | Rights      | Test Text     |
 | :---        |    :----:   |          ---: |
@@ -38,12 +45,9 @@ Include the procedure for installing the application.
 | Paragraph   | Text        | And more      |
 
 
-### Checking your installation
-You can verify the content of the installation directory and use shortcuts to access product components and information.
 
-
-### What's next?
-Review the following topics after you install Operational Decision Manager.
+## What's next?
+Review the following topics after you install the sample product.
 
 
 # Working with "Samples"
@@ -76,13 +80,13 @@ _Example: Configure Connect to manage your work_
 
 Provide a concise description of the context for this sub-process or workflow, including any requirements or conditions that are relevant.
 
-1.Procedures for Step 1
-2.Example: To Log in to Connect:
-3.Do something.
-4.Complete an action.
+1. Procedures for Step 1
+2. Example: To Log in to Connect:
+3. Do something.
+4. Complete an action.
 5. Select a value.
 
-[NOTES, CAUTIONS, and WARNINGS provide any relevant or supplemental information about consequences of performing a step incorrectly. Place warnings before the step to be taken. Notes may be placed either before or after the corresponding step.]
+NOTES, CAUTIONS, and WARNINGS provide any relevant or supplemental information about consequences of performing a step incorrectly. Place warnings before the step to be taken. Notes may be placed either before or after the corresponding step.
 NOTE:.
 
 Procedures for Step 2:
@@ -121,7 +125,7 @@ Troubleshooting is the process of finding and eliminating the cause of a problem
 
 > **:Warning:** Include any warnings here that could cause any issues. 
 
-### Troubleshooting Rule Execution Server
+### Troubleshooting 
 Various paths are available for you in case of poor performance: you activate the execution unit (XU) log to study the execution trace, configure the XU memory profiler, explore database driver issues, or allocate more memory to applications.
 
 ### Troubleshooting and support resources
